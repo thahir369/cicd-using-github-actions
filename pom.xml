@@ -10,10 +10,10 @@
   </parent>
 
   <groupId>com.halloWorld</groupId>
-  <artifactId>github-actions-example</artifactId>
+  <artifactId>cicd-using-github-actions</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>github-actions-example</name>
-  <description>Spring Boot demo project to perform CI-CD using github actions</description>
+  <name>cicd-using-github-actions</name>
+  <description>Sample spring boot project to perform CI-CD using github actions</description>
 
   <properties>
     <java.version>11</java.version>

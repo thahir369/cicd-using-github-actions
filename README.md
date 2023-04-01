@@ -1,1 +1,1 @@
-# github-actions-example
+# cicd-using-github-actions

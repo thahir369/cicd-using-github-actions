@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-public class GithubActionsExampleApplication {
+public class CicdUsingGithubActionsApplication {
 
   @GetMapping("/home")
   public String foo() {
@@ -15,6 +15,6 @@ public class GithubActionsExampleApplication {
   }
 
   public static void main(String[] args) {
-    SpringApplication.run(GithubActionsExampleApplication.class, args);
+    SpringApplication.run(CicdUsingGithubActionsApplication.class, args);
   }
 }

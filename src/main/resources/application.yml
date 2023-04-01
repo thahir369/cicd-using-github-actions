@@ -1,6 +1,6 @@
 spring:
   application:
-    name: github-actions-example
+    name: cicd-using-github-actions
   h2:
     console:
       enabled: true   # H2-InMemory DB-console --> http://localhost:8080/h2-console (default) here i named as http://localhost:8080/h2
