@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class GithubActionsExampleApplication {
 
-  @GetMapping("/message")
+  @GetMapping("/home")
   public String foo() {
-    return "This is github actions example project";
+    return "Hi there.This is github actions example project";
   }
 
   public static void main(String[] args) {
