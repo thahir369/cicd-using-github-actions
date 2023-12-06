@@ -11,7 +11,7 @@ public class CicdUsingGithubActionsApplication {
 
   @GetMapping("/home")
   public String foo() {
-    return "Hi there.This is github actions example project";
+    return "Hi There. This is very sample application to perform ci-cd using GitHub actions";
   }
 
   public static void main(String[] args) {
